@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "productId": "demo-1",
+      "title": "Wireless Keyboard",
+      "price": 599,
+      "stock": 12,
+      "category": "Electronics",
+      "description": "Smooth typing with silent keys.",
+      "imageUrl": "assets/demo-keyboard.jpg"
+    },
+    {
+      "productId": "demo-2",
+      "title": "Noise Earbuds",
+      "price": 1299,
+      "stock": 45,
+      "category": "Audio",
+      "description": "Deep bass with ENC technology.",
+      "imageUrl": "assets/demo-earbuds.jpg"
+    },
+    {
+      "productId": "demo-3",
+      "title": "Gaming Mouse",
+      "price": 899,
+      "stock": 20,
+      "category": "Accessories",
+      "description": "RGB lighting with 6 programmable buttons.",
+      "imageUrl": "assets/demo-mouse.jpg"
+    }
+  ]
+}
