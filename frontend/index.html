@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Product Catalog</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+  <!-- DEMO MODE BANNER -->
+  <div id="demoBanner">Demo Mode: AWS backend offline</div>
+
+  <h1>Product Catalog</h1>
+
+  <!-- Add Product Button -->
+  <button id="addProductBtn">Add Product</button>
+
+  <!-- Product List -->
+  <div id="product-list" class="grid"></div>
+
+  <!-- SUCCESS TOAST -->
+  <div id="toast" class="toast">Success!</div>
+
+  <!-- Add Product Modal -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <h2>Add Product</h2>
+
+      <form id="productForm">
+        <input name="title" placeholder="Title" required />
+        <input name="price" type="number" placeholder="Price" required />
+        <input name="stock" type="number" placeholder="Stock" required />
+        <input name="category" placeholder="Category" required />
+        <textarea name="description" placeholder="Description"></textarea>
+
+        <label>Select Image (JPEG only)</label>
+        <input type="file" id="imageInput" accept="image/jpeg" />
+
+        <button type="submit">Create</button>
+      </form>
+
+      <button id="closeModal">Close</button>
+    </div>
+  </div>
+
+  <!-- UPDATE PRODUCT MODAL -->
+  <div id="updateModal" class="modal">
+    <div class="modal-content">
+      <h2>Update Product</h2>
+
+      <form id="updateForm">
+        <input name="title" placeholder="Title" required />
+        <input name="price" type="number" placeholder="Price" required />
+        <input name="stock" type="number" placeholder="Stock" required />
+        <input name="category" placeholder="Category" required />
+        <textarea name="description" placeholder="Description"></textarea>
+
+        <button type="submit">Update</button>
+      </form>
+
+      <button id="closeUpdateModal">Close</button>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
