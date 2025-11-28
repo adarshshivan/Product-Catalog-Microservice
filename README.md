@@ -5,18 +5,16 @@ The system supports full CRUD operations, image uploads to S3 using pre-signed U
 
 After deployment, all AWS resources were intentionally deleted to maintain zero cloud cost.
 
-The frontend includes an intelligent **Dual-Mode** Engine:
-
-**AWS Mode** (active only when backend exists)
-
-**Demo Mode** (automatically activated when backend is absent)
-
-- If AWS backend is unavailable → Demo Mode will activate
-
-- If AWS backend is restored → Full CRUD mode is enabled automatically
+## Key Features
+- Fully serverless architecture using AWS Lambda, API Gateway, DynamoDB, and S3
+- Secure image uploads with pre-signed URLs
+- Full CRUD functionality for product management
+- Responsive frontend built with HTML, CSS, and Vanilla JavaScript
+- Auto-detection of backend availability with seamless Demo Mode fallback
+- Cost-optimized with all AWS resources deleted after deployment
 
 ---
 
-Detailed documentation for every phase of this project is located inside the `/docs/` directory
+**Detailed documentation for every phase of this project is located inside the `docs/` directory**
 
 ---
