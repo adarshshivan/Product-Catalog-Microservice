@@ -5,15 +5,15 @@ The **Product Catalog Microservice** is a fully serverless, cloud-native applica
 Detailed documentation available below
 
 
-- [01_project_overview](01_project_overview.md)
-- [02_why_this_project](02_why_this_project.md)
-- [03_possible_approaches](03_possible_approaches.md)
-- [04_why_this_approach](04_why_this_approach.md)
-- [05_tech_stack](05_tech_stack.md)
-- [06_architecture](06_architecture.md)
-- [07_step_by_step_tutorial](07_step_by_step_tutorial.md)
-- [08_future_enhancements](08_future_enhancements.md)
-- [09_learnings](09_learnings.md)
-- [10_challenges_and_solutions](10_challenges_and_solutions.md)
-- [11_screenshots](11_screenshots.md)
+- [Project overview](01_project_overview.md)
+- [Why this project](02_why_this_project.md)
+- [Possible approaches](03_possible_approaches.md)
+- [Why this approach](04_why_this_approach.md)
+- [Tech stack](05_tech_stack.md)
+- [Architecture](06_architecture.md)
+- [Step by step tutorial](07_step_by_step_tutorial.md)
+- [Future enhancements](08_future_enhancements.md)
+- [Learnings](09_learnings.md)
+- [Shallenges and solutions](10_challenges_and_solutions.md)
+- [Screenshots](11_screenshots.md)
 
