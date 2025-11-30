@@ -15,5 +15,5 @@ Detailed documentation available below
 8. [**Future enhancements**](08_future_enhancements.md)
 9. [**Learnings**](09_learnings.md)
 10. [**Shallenges and solutions**](10_challenges_and_solutions.md)
-11. [**Screenshots**](11_screenshots.md)
+11. [**Screenshots**](11_Screenshots.md)
 
