@@ -15,6 +15,6 @@ After deployment, all AWS resources were intentionally deleted to maintain zero 
 
 ---
 
-**Detailed documentation for every phase of this project is located inside the `docs/` directory**
+**Detailed documentation is available inside the docs/ folder.**
 
 ---
