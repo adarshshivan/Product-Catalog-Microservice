@@ -1,7 +1,7 @@
 **Product Catalog Microservice – Serverless + Vercel Frontend**
 
 A fully-functional, cloud-native **Product Catalog Microservice** built using an AWS serverless backend and a modern static frontend deployed on Vercel.
-The system supports full CRUD operations, image uploads to S3 using pre-signed URLs, DynamoDB-based storage, and a clean UI for product management.
+The system supports full `CRUD` operations, image uploads to `S3` using `pre-signed URLs`, `DynamoDB`-based storage, and a clean UI for product management.
 
 After deployment, all AWS resources were intentionally deleted to maintain zero cloud cost.
 
@@ -15,6 +15,6 @@ After deployment, all AWS resources were intentionally deleted to maintain zero 
 
 ---
 
-**Detailed documentation is available inside the docs/ folder.**
+**Detailed documentation is available inside the `docs/` folder.**
 
 ---
